@@ -1,0 +1,117 @@
+.logo{
+	color: #bf9c47 !important; 
+	font-size: 2.3em; 
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.socialmedia {
+	width: 50px;
+	height: auto;
+}
+
+body{
+	margin-top:80px;
+}
+
+.img1{
+	display: block;
+ 	margin:auto;
+ 	margin-top: 20px;
+	box-shadow: 10px 10px 5px #888888;
+	width: 200px;
+	height: 200px;
+}
+
+div.flavour {
+  width: 70%;
+  margin-left: auto;
+margin-right: auto;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.flavour:hover {
+  width: 70%;
+  margin-left: auto;
+margin-right: auto;
+  background-color: #fae1df;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.topping {
+  width: 70%;
+  background-color: white;
+  margin-left: auto;
+margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 60%;
+}
+
+div.topping:hover {
+  width: 70%;
+  margin-left: auto;
+margin-right: auto;
+  background-color: #ffe787;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 60%;
+}
+
+div.container {
+  text-align: center;
+}
+
+.weidao{
+	font-size: 1.3em;
+	color: #bf9c47;
+	font-style: bold;
+}
+
+.mainimg{
+	width: 100%;
+	margin-top: 40px;
+}
+
+p{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h3{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 2em;
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.btn {
+	background-color: #002154;
+   width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn:hover {
+	background-color: #bf9c47; 
+}
+
+h4 {
+	font-size: 2em;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	padding-top: 90px;
+}
+
+footer {
+	text-align: center;
+	background-color:  #00204f; 
+}
+
+footer p {
+	color: white;
+	margin: 0;
+	padding: 0;
+}
